@@ -1,0 +1,9 @@
+{
+  "price": {
+    "rub": 6000,
+	"usd": 999
+  },
+  "container": {
+    "base": 50
+  }
+}

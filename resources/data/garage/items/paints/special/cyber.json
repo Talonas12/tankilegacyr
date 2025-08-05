@@ -1,0 +1,18 @@
+{
+  "animatedColoring": 1000000,
+  "baseItemId": 999999,
+  "description": {
+    "en": "If you gaze into this paint long enough, you can see a cat flying through space on a slice of pizza.",
+    "ru": "Если долго всматриваться в эту краску, можно увидеть кота, пролетающего на куске пиццы."
+  },
+  "id": "cyber",
+  "index": -76,
+  "name": {
+    "en": "Cyber",
+    "ru": "Кибер"
+  },
+  "previewResourceId": 999999,
+  "price": 0,
+  "properties": [],
+  "rank": 30
+}
